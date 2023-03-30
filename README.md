@@ -1,7 +1,7 @@
 <!-- ![banner](https://user-images.githubusercontent.com/29784113/161899740-b98b5792-3270-4869-9dd5-8e968ecf3fe4.png) -->
 <!-- <br> -->
 ## Hi there 👋
-[![Linkedin: Vaidurya Malathesha](https://img.shields.io/badge/-kajol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaidurya-malathesha-57122521a/)](https://www.linkedin.com/in/vaidurya-malathesha-57122521a/)
+[![Linkedin: Vaidurya_Malathesha](https://img.shields.io/badge/-Vaidurya_Malathesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaidurya-malathesha-57122521a/)](https://www.linkedin.com/in/vaidurya-malathesha-57122521a/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vaiduryam.github.io/)](https://vaiduryam.github.io/)
 - 🔭 I’m currently doing my Masters in CSE at State University Of New York, Buffalo.
 - 🌱 I’m always trying learn new things in Python, Javascript and Machine Learning.
